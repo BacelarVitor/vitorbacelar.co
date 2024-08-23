@@ -1,0 +1,8 @@
+# Front angular 
+node_modules/
+
+# Back .NET 
+
+bin/ 
+obj/
+
